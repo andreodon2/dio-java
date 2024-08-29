@@ -35,7 +35,32 @@ public class Operadores {
         System.out.println("\n");
 
 
-        System.out.println("CONCATENAÇÃO COM O +");
-        
+        System.out.println("A OPERAÇÃO DE INCREMENTO MOSTRA UMA REPETIÇÃO:\n int numero = 5 \n numero = numero + 2\n 7");
+        int numero = 5;
+        numero = numero + 2;
+        System.out.println(numero);
+
+        numero++;
+        System.out.println(numero);
+        System.out.println("\n");
+
+
+        System.out.println("Como negar um valor booleano");
+
+        boolean variavel = true;
+        System.out.println(!variavel);
+        System.out.println("\n");
+
+
+        System.out.println("O operador Ternário julga uma condição em uma linha apenas. Por exemplo:\n <Expressão condicional ? <Caso a condição seja True> : <Caso a condição seja falsa>");
+        int a, b;
+        a = 5;
+        b = 6;
+
+        String resultados = a==b ?"verdadeiro" : "falso";
+        // if(a==b)
+        //     resultados = "verdadeiro";
+        // else
+        //     resultados = "falso";
     }
 }

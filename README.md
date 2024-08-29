@@ -2,4 +2,4 @@
 
 ##
 
-- Aqui vai constar meus progressos com detalhes.
+- Acabei de terminar operadores.
