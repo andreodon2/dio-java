@@ -2,4 +2,4 @@
 
 ##
 
-- Acabei de terminar operadores.
+- Estou na aula de métodos e parei na aula 3 10:28.
